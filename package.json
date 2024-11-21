@@ -1,0 +1,15 @@
+{
+  "name": "file-encryption-and-decryption",
+  "version": "1.0.0",
+  "description": "A secure and user-friendly web application for encrypting and decrypting files, allowing users to protect sensitive data with ease. This project uses modern cryptographic techniques to ensure data security and privacy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

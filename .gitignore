@@ -1,0 +1,21 @@
+# Node modules
+# Excludes dependency
+node_modules/   
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp/    
+
+## Temp file extensions
+*.tmp
+*.bak
+
+# Environment files
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
