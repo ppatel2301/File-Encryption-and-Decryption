@@ -1,0 +1,21 @@
+.footer {
+    background-color: #282828;  /* Dark background */
+    color: #fff;  /* White text */
+    text-align: center;  /* Center-align the text */
+    padding: 15px;  /* Add padding for better spacing */
+    position: fixed;  /* Fix it at the bottom of the page */
+    width: 100%;  /* Ensure it spans the full width */
+    bottom: 0;  /* Position it at the bottom of the page */
+    font-size: 14px;  /* Slightly smaller text */
+}
+
+.footer p {
+    margin: 0;  /* Remove default margin */
+}
+
+/* Add some responsiveness */
+@media (max-width: 600px) {
+    .footer p {
+        font-size: 12px;  /* Slightly smaller text on mobile */
+    }
+}
